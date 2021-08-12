@@ -1,4 +1,4 @@
-# main
+# main holds module for networking and compute
 
 module "networking" {
   source       = "./networking"
